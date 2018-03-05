@@ -5,9 +5,9 @@ ApiDoc
         :target: https://travis-ci.org/SolutionsCloud/apidoc
 .. image:: https://coveralls.io/repos/SolutionsCloud/apidoc/badge.png
         :target: https://coveralls.io/r/SolutionsCloud/apidoc
-.. image:: https://pypip.in/v/ApiDoc/badge.png
+.. image:: https://img.shields.io/pypi/v/ApiDoc.svg
         :target: https://preview-pypi.python.org/project/ApiDoc
-.. image:: https://pypip.in/d/ApiDoc/badge.png
+.. image:: https://img.shields.io/pypi/dm/ApiDoc.svg
         :target: https://preview-pypi.python.org/project/ApiDoc
 .. image:: https://requires.io/github/SolutionsCloud/apidoc/requirements.png?branch=develop
         :target: https://requires.io/github/SolutionsCloud/apidoc/requirements/?branch=develop
